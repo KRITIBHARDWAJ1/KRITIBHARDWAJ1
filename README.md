@@ -16,5 +16,5 @@ React.js • JavaScript • Node.js • Express.js • MongoDB • Mongoose • 
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/kriti-bhardwaj-b124aa216
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/kriti-bhardwaj-b124aa216)
 Email: kritibhardwaj863@gmail.com
