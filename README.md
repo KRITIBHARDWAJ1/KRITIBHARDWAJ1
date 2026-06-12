@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Kriti Bhardwaj
 
-<!--
-**KRITIBHARDWAJ1/KRITIBHARDWAJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer from Jaipur, India.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3+ years of experience in web development
+- Currently working as MERN Stack Developer at Project Way Solutions
+- Building full-stack web applications using React.js, Node.js, Express.js, and MongoDB
+- Experienced with REST APIs, JWT Authentication, Cloudinary, Vercel, and Render
+- Open to Full Stack Developer and React Developer opportunities
+
+## Tech Stack
+
+React.js • JavaScript • Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentication • Git • GitHub • Postman • Vercel • Render
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/kriti-bhardwaj-b124aa216
+Email: kritibhardwaj863@gmail.com
