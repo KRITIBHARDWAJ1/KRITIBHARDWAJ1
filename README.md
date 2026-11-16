@@ -5,7 +5,7 @@ MERN Stack Developer from Jaipur, India.
 ## About Me
 
 - 3+ years of experience in web development
-- Currently working as MERN Stack Developer at Project Way Solutions
+- Currently working as MERN Stack Developer at Project Way 
 - Building full-stack web applications using React.js, Node.js, Express.js, and MongoDB
 - Experienced with REST APIs, JWT Authentication, Cloudinary, Vercel, and Render
 - Open to Full Stack Developer and React Developer opportunities
